@@ -1,4 +1,5 @@
-﻿* a206a46 - 2312616 - Phan Trung Hieu (Fri Oct 16 16:10:40 2026 +0700): Add coverage HTML artifact upload
+﻿* 966f47c - 2312616 - Phan Trung Hieu (Fri Oct 16 16:24:16 2026 +0700): Add evidence logs
+* a206a46 - 2312616 - Phan Trung Hieu (Fri Oct 16 16:10:40 2026 +0700): Add coverage HTML artifact upload
 * 4639c4e - 2312616 - Phan Trung Hieu (Fri Oct 16 16:06:17 2026 +0700): Add coverage HTML artifact upload
 * df4d61a - 2312616 - Phan Trung Hieu (Fri Oct 16 16:03:17 2026 +0700): Fix syntax error, restore build
 * 8fd9d6a - 2312616 - Phan Trung Hieu (Fri Oct 16 16:01:39 2026 +0700): Intentionally break build with syntax error
